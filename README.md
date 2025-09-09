@@ -2,4 +2,4 @@
 Name: Braden Woods
 CCID: bgwoods
 Lecture: A1 
-Lab: Do5
+Lab: D05
